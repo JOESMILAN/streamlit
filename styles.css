@@ -1,0 +1,13 @@
+/* Custom CSS for Streamlit app */
+
+/* Grey background color */
+body {
+    background-color: #302f2f;
+}
+
+/* Blue color for all headings */
+h1.title,
+h2,
+.subheader {
+    color: #0000FF;
+}
